@@ -14,8 +14,8 @@ public enum SpeedTestError: Error {
 }
 
 public struct SeverResult {
-    var url:URL
-    var ping:Int
+    public var url:URL
+    public var ping:Int
 }
 
 public final class SpeedTest {
