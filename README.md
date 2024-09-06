@@ -1,9 +1,16 @@
-## NetworkSpeedTestLib is a Network Speed Test Tool 
-## that can measure the download speed and upload speed, and ping url
+# NetworkSpeedTestLib
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-## version: iOS12
+## NetworkSpeedTestLib is a Network Speed Test Tool. that can measure the download speed and upload speed, and ping url
 
-## Use:
+
+### Setup Instructions
+[Swift Package Manager](https://swift.org/package-manager/)
+------------------
+
+When using Xcode 11 or later, you can install `NetworkSpeedTestLib` by going to your Project settings > `Swift Packages` and add the repository by providing the GitHub URL. Alternatively, you can go to `File` > `Swift Packages` > `Add Package Dependencies...`
+
+## Getting Started
 ### get best service
   
   
