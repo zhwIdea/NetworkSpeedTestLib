@@ -10,7 +10,7 @@
     var speedTest = SpeedTest()
     var serverResult:SeverResult?
  
-    /// Start the speed Test process
+    /// start the speed Test process
     func startSpeedTestProgress() {
         // get the best service
         speedTest.findBestHost(from: 5, timeout: 15) { [weak self] result in
